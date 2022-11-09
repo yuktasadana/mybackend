@@ -1,4 +1,4 @@
-const jwt = require("jsonwebtoken");
+/*const jwt = require("jsonwebtoken");
 const userModel = require("../models/userModel");
 
 const createUser = async function (abcd, xyz) {
@@ -119,4 +119,4 @@ module.exports.createUser = createUser;
 module.exports.getUserData = getUserData;
 module.exports.updateUser = updateUser;
 module.exports.loginUser = loginUser;
-module.exports.postMessage = postMessage
+module.exports.postMessage = postMessage*/
